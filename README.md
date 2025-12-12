@@ -1,6 +1,10 @@
 
-Autores:
-Richarth Laguna
+✨ Autores
+
+RICHARD KEVIN AGUDO UBE
+RICHARTH ALFREDO LAGUNA BUSTOS
+CARLA ALEXANDRA RAMIREZ EGAS
+SOFIA MONSERRATH SANDOVAL MORALES
 
 
 # 📊 Proyecto 8 – Análisis Automatizado de Emociones en Video
@@ -166,12 +170,8 @@ El heatmap es un gráfico global y no necesita filtros.
 
 Si la API no está disponible, el dashboard utiliza el CSV local
 
-✨ Autores
 
-RICHARD KEVIN AGUDO UBE
-RICHARTH ALFREDO LAFUNA BUSTOS
-CARLA ALEXANDRA RAMIREZ EGAS
-SOFIA MONSERRATH SANDOVAL MORALES
 
 Proyecto desarrollado para Proyecto 8 – Análisis de Emociones, integrando visión artificial, APIs y visualización interactiva.
+
 
