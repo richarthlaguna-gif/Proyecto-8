@@ -1,10 +1,10 @@
 
 ✨ Autores
 
-RICHARD KEVIN AGUDO UBE
-RICHARTH ALFREDO LAGUNA BUSTOS
-CARLA ALEXANDRA RAMIREZ EGAS
-SOFIA MONSERRATH SANDOVAL MORALES
+- RICHARD KEVIN AGUDO UBE  
+- RICHARTH ALFREDO LAGUNA BUSTOS  
+- CARLA ALEXANDRA RAMIREZ EGAS  
+- SOFIA MONSERRATH SANDOVAL MORALES
 
 
 # 📊 Proyecto 8 – Análisis Automatizado de Emociones en Video
@@ -173,5 +173,6 @@ Si la API no está disponible, el dashboard utiliza el CSV local
 
 
 Proyecto desarrollado para Proyecto 8 – Análisis de Emociones, integrando visión artificial, APIs y visualización interactiva.
+
 
 
