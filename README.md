@@ -1,3 +1,8 @@
+
+Autores:
+Richarth Laguna
+
+
 # 📊 Proyecto 8 – Análisis Automatizado de Emociones en Video
 
 Sistema completo para *detectar, analizar y visualizar emociones faciales* a partir de un video.
@@ -169,3 +174,4 @@ CARLA ALEXANDRA RAMIREZ EGAS
 SOFIA MONSERRATH SANDOVAL MORALES
 
 Proyecto desarrollado para Proyecto 8 – Análisis de Emociones, integrando visión artificial, APIs y visualización interactiva.
+
